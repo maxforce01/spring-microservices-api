@@ -15,7 +15,7 @@ Also we have 4 microservices:
 
 1) common-utils - which store models and common classes
 
-2) consumer-microservice - which witch is database service.
+2) consumer-microservice - which is database service.
 
 3) producer-microservice - which is get users from github.
 
